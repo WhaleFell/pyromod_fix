@@ -1,2 +1,5 @@
 [virtualenvs]
 in-project = true
+
+[tool.poetry.scripts]
+your-script = "pyromod.script:main"
